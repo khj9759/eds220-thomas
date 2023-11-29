@@ -2,7 +2,7 @@
 Analyzing Thomas Fire in Santa Barbara County
 
 # Short explaination of goal/purpose of the repository 
-In this task you will use [Air Quality Index (AQI)](https://www.airnow.gov/aqi/aqi-basics/) data from the [US Environmental Protection Agency](https://www.epa.gov) to visualize the impact on the AQI of the 2017-2018 [Thomas Fire](https://en.wikipedia.org/wiki/Thomas_Fire) in Santa Barbara County. The goal of this task is to create a false color image showing the fire scar of the Thomas fire in 2017. 
+You'll utilize Air Quality Index (AQI) data provided by the US Environmental Protection Agency to visually represent the influence of the 2017-2018 Thomas Fire in Santa Barbara County. Your objective is to generate a false-color image that vividly illustrates the extent of the fire scar left by the Thomas Fire in 2017.
 
 # Data citation 
 - Air Quality Index (AQI) calculations: https://www.airnow.gov/aqi/aqi-basics/
